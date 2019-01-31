@@ -1,0 +1,91 @@
+body{
+    background-color:#336666;
+}
+.header{
+    width:960px;
+    height:100px;
+    margin:auto;
+    background-color:blue;
+    text-align:center;
+    border-radius:40px;
+}
+div.header h1{
+    font-family:Kristen ITC;
+    text-align:center;
+    color:#FFFF00;
+    position:relative;bottom:120px;
+}
+div.header a{
+    text-align:center;
+    padding:5px;
+    display:inline-block;
+    width:110px;
+    height:20px;
+    text-decoration:none;
+    position:relative;bottom:120px;
+    color:yellow;
+    border-radius:40px;
+}
+
+div.header a:hover{
+    color:blue;
+    background-color:yellow;
+}
+div.header img{
+    display:inline-block;
+    width:100px;
+    height:100px;
+    position:relative;right:430px;
+}
+div.body1{
+    margin:auto;
+    width:470px;
+    height:470px;
+    text-align:center;
+    background-color:blue;
+    float:left;
+    margin-left:200px;
+    margin-top:50px;
+    border-radius:40px;
+    font-family:Kristen ITC;
+    color:#FFFF00;
+    display:inline-block;
+}
+div.body1 figure{
+    display:inline-block;
+    width:150px;
+    height:150px;
+}
+div.body1 a{
+    text-decoration:none;
+    color:yellow;
+}
+div.body1 a:hover{
+    color:orange;
+}
+div.body2{
+    margin:auto;
+    width:470px;
+    height:470px;
+    text-align:center;
+    background-color:blue;
+    float:left;
+    position:relative;left:20px;
+    margin-top:50px;
+    border-radius:40px;
+    font-family:Kristen ITC;
+    color:#FFFF00;
+    display:inline-block;
+}
+div.body2 figure{
+    display:inline-block;
+    width:150px;
+    height:150px;
+}
+div.body2 a{
+    text-decoration:none;
+    color:yellow;
+}
+div.body2 a:hover{
+    color:orange;
+}
